@@ -24,8 +24,6 @@ function decrement(n){
 }
 
 function makeInt(n) {
- // var n = "231@fdkh";
- var n_int = parseInt(n, 10);
  return parseInt(n, 10);
 }
 
